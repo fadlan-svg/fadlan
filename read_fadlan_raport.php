@@ -197,7 +197,7 @@ $data = mysqli_query($conn, $sql);
 
 <br>
 <a href="tambah_fadlan_raport.php" class="add-link">+ Tambah Data</a><br><br>
-<a href="cetakv2.php" target="_blank" class="button">Cetak Semua Data</a>
+<a href="cetakv2.php" target="_blank" class="button">Cetak Semua Data Yang Ada</a>
 
 </center>
 </body>
